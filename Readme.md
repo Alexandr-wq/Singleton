@@ -9,3 +9,5 @@
 ![kartinka1](https://github.com/Alexandr-wq/Singleton/blob/master/2.PNG?raw=true)
 
 #### Классическая реализация паттерна Одиночка
+
+![kartinka1](https://github.com/Alexandr-wq/Singleton/blob/master/3.PNG?raw=true)
